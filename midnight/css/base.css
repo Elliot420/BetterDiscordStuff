@@ -10,7 +10,7 @@
                                          /$$  \ $$
                                         |  $$$$$$/
 										\______/
-			    By Tropical
+			    By Elliot
 */
 @import url(https://tropix126.github.io/BetterDiscordStuff/midnight/css/fonts.css);
 @import url(https://bdsources.github.io/sourcecheck/code.css);
@@ -29,8 +29,8 @@
 	--main-color: var(--accent);
 	--hover-color: var(--hover);
 	--roundness: var(--user-roundness);
-	--theme-long-name: 'Midnight UI';
-	--theme-version: '2.8.1';
+	--theme-long-name: 'Elliot’s Theme';
+	--theme-version: '1.0';
 	--deprecated-store-bg: var(--lv1);
 	--background-primary: var(--lv1);
 	--background-secondary: var(--lv1);
